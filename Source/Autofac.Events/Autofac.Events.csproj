@@ -6,6 +6,7 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>4.9.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
