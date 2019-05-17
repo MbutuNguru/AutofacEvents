@@ -9,7 +9,7 @@ using System.Reflection;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jon Stelly")]
 [assembly: AssemblyProduct("Autofac.Events")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
@@ -24,6 +24,6 @@ using System.Reflection;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("3.5.2.*")]
-[assembly: AssemblyFileVersion("3.5.2.*")]
-[assembly: AssemblyInformationalVersion("3.5.2.1")]
+[assembly: AssemblyVersion("3.5.2.2")]
+[assembly: AssemblyFileVersion("3.5.2.2")]
+[assembly: AssemblyInformationalVersion("3.5.2.2")]

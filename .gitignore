@@ -187,3 +187,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/Tests/Autofac.Events.Tests/Properties/launchSettings.json
+/.vs/AutofacEvents/v15/Server/sqlite3
