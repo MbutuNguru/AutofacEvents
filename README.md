@@ -2,6 +2,9 @@ AutofacEvents
 =============
 AutofacEvents is an event pub/sub extension for Autofac.  Primary usage is to publish domain events between classes, where subscribing to the events is as easy as implementing an interface in any interested classes and ensuring that they are registered with Autofac.  A nuget package is available as [Autofac.Events](http://www.nuget.org/packages/Autofac.Events/).
 
+##Changes to this fork
+Code as is ported to .net standard 2.0
+
 ##Configuration
 During your normal autofac configuration, register the ContravariantRegistrationSource, and call RegisterEventing().
 
